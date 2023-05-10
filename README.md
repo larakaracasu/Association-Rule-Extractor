@@ -4,8 +4,8 @@ This project utilizes the Apriori algorithm to generate association rules for th
 
 ## Contributors
 
-Ulas Alakent
-Lara Karacasu
+- Ulas Alakent
+- Lara Karacasu
 
 ## Project Structure
 

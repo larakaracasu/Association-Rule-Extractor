@@ -1,6 +1,8 @@
 # Association Rule Extractor
 
-This project utilizes the Apriori algorithm to generate association rules for the NY Complain Data from 2023. The goal is to analyze the dataset and identify any interesting associations between different attributes, such as the type of crime and the borough/location where it was committed.
+![](https://img.shields.io/github/license/ulasonat/relevance-feedback-search-engine?color=red&logo=red&style=flat-square)
+
+This project utilizes the Apriori algorithm to generate association rules for the NY Complaint Data from 2023. The goal is to analyze the dataset and identify any interesting associations between different attributes, such as the type of crime and the borough/location where it was committed.
 
 ## Contributors
 
